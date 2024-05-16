@@ -12,7 +12,7 @@ security measures through proactive vulnerability management and collaboration w
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Wireshark Packet Analysis and Network Troubleshooting          | <a href="https://github.com/JosephatOmondi/Detection-Lab/tree/main">Wireshark</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -53,6 +53,6 @@ security measures through proactive vulnerability management and collaboration w
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- Wireshark projects
+- <a href="https://github.com/JosephatOmondi/Detection-Lab/tree/main">Wireshark</a>
 - Tcpdump
 - Vulnerability Management 
